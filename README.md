@@ -1,3 +1,3 @@
 # Plamredis
 
-A small redis implementation in zig, currently a work in progress.
+A small redis implementation in C++, currently a work in progress.
